@@ -1,6 +1,6 @@
 # CATTP
 
-## A Fun Approach to Learn HTTP Status Codes with Cats!
+## A Fun Approach to Therapy with Cats!
 
 **Tools Used:** 
 - Flutter 
@@ -9,7 +9,6 @@
 
 **Resources Used:** 
 - [HTTP Package](https://pub.dev/packages/http)
-- [API for HTTP Cats](https://http.cat/)
 
 <br>
 
